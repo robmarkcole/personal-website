@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Robin Cole</title>
+<title>Robin Cole - Consulting</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -79,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./consulting.html">
+    <a class="nav-link active" href="./consulting.html" aria-current="page">
  <span class="menu-text">Consulting</span></a>
   </li>  
 </ul>
@@ -94,40 +95,49 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="robin.png" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Robin Cole</h1>
+<h1 class="title">Consulting</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header><main class="content" id="quarto-document-content">
-<p>I hold a PhD in physics from the University of Cambridge and have worked in a number of research and development roles within industry. I have a decade of experience with the Python programming language and have expertise in cloud computing on AWS infrastructure. I am a passionate advocate for the open source software movement and make regular contributions on <a href="https://github.com/robmarkcole">Github</a>. I have presented at Python conferences and appeared on podcasts including the <a href="https://podcast.zenml.io/satellite-vision-robin-cole">ZenML</a> and <a href="https://mapscaping.com/podcasts/thermal-imagery-from-space/">Mapscaping</a> podcasts. I am the maintainer of the satellite-image-deep-learning <a href="https://github.com/robmarkcole/satellite-image-deep-learning">Github repository</a> and <a href="https://www.satellite-image-deep-learning.com/">newsletter</a></p>
+  
+
+</header>
+
+<p>I am available for consulting on the following topics:</p>
+<ul>
+<li>Deep learning applied to satellite imagery, including feasaibility studies, model development, and model deployment</li>
+<li>Tradeoffs in the selection of remote sensing image sources and deep learning architectures</li>
+<li>The physics of remote sensing imaging systems, particularly optical &amp; thermal</li>
+<li>Deep learning applied to other domains, including medical imaging and general computer vision</li>
+<li>Building data processing pipelines on the cloud (AWS, GCP, Azure)</li>
+<li>Marketting and communication for technical products</li>
+<li>Brand building and community building for technical products</li>
+<li>Technical writing and editing</li>
+<li>Technical presentations</li>
+<li>Technical project management</li>
+</ul>
+<p>Please message me via <a href="https://www.linkedin.com/in/robmarkcole/">LinkedIn</a> or <a href="https://twitter.com/robmarkcole">Twitter</a> if you are interested in discussing a project.</p>
+<section id="testimonials" class="level2">
+<h2 class="anchored" data-anchor-id="testimonials">Testimonials</h2>
+<ul>
+<li>Gregor Beyerle: <em>Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products.</em></li>
+</ul>
 
 
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://twitter.com/robmarkcole" class="about-link">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="https://www.linkedin.com/in/robmarkcole/" class="about-link">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/robmarkcole" class="about-link">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="/cv.pdf" class="about-link">
-     <span class="about-link-text">CV</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -148,6 +158,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
