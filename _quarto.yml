@@ -6,6 +6,10 @@ project:
 website:
   title: "Robin Cole"
   site-url: https://robmarkcole.com
+  navbar:
+    right:
+      - text: "Consulting"
+        href: consulting.html
 format:
   html:
     theme: cosmo
