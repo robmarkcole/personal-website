@@ -7,14 +7,12 @@
 
 I am available for consulting on the following topics:
 
-- Deep learning applied to satellite imagery, including dataset selection, model training and deployment
-- Deep learning applied to other domains, including medical imaging and general computer vision
+- Deep learning applied to satellite imagery: dataset selection, model training and deployment
 - The physics of remote sensing imaging systems, particularly optical & thermal
 - Building data processing pipelines in the cloud
 - Brand and community building for technical products
-- Technical writing, presentations and project management
 
-Please message me via [LinkedIn](https://www.linkedin.com/in/robmarkcole/) or [Twitter](https://twitter.com/robmarkcole) if you are interested in discussing a project.
+Please message me via [LinkedIn](https://www.linkedin.com/in/robmarkcole/) or [Twitter](https://twitter.com/robmarkcole) if you are interested in discussing a project, or proceed directly to [book a 1:1 with me](https://calendly.com/robmarkcole/)
 
 ## Testimonials
 - Gregor Beyerle: *Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products.*
