@@ -1,23 +1,23 @@
 [
   {
-    "objectID": "consulting.html",
-    "href": "consulting.html",
-    "title": "Consulting",
-    "section": "",
-    "text": "I am available for consulting on the following topics:\nPlease message me via LinkedIn or Twitter if you are interested in discussing a project."
-  },
-  {
-    "objectID": "consulting.html#testimonials",
-    "href": "consulting.html#testimonials",
-    "title": "Consulting",
-    "section": "Testimonials",
-    "text": "Testimonials\n\nGregor Beyerle: Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Robin Cole",
     "section": "",
     "text": "I hold a PhD in physics from the University of Cambridge and have worked in a number of research and development roles within industry. I have a decade of experience with the Python programming language and have expertise in cloud computing on AWS infrastructure. I am a passionate advocate for the open source software movement and make regular contributions on Github. I have presented at Python conferences and appeared on podcasts including the ZenML and Mapscaping podcasts. I am the maintainer of the satellite-image-deep-learning Github repository and newsletter"
+  },
+  {
+    "objectID": "consulting.html#consulting",
+    "href": "consulting.html#consulting",
+    "title": "Robin Cole",
+    "section": "Consulting",
+    "text": "Consulting\nI am available for consulting on the following topics:\n\nDeep learning applied to satellite imagery, including dataset selection, model training and deployment\nDeep learning applied to other domains, including medical imaging and general computer vision\nThe physics of remote sensing imaging systems, particularly optical & thermal\nBuilding data processing pipelines in the cloud\nBrand and community building for technical products\nTechnical writing, presentations and project management\n\nPlease message me via LinkedIn or Twitter if you are interested in discussing a project."
+  },
+  {
+    "objectID": "consulting.html#testimonials",
+    "href": "consulting.html#testimonials",
+    "title": "Robin Cole",
+    "section": "Testimonials",
+    "text": "Testimonials\n\nGregor Beyerle: Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products."
   }
 ]
