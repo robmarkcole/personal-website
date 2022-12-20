@@ -13,8 +13,6 @@ about:
     - text: Github
       icon: github
       href: https://github.com/robmarkcole
-    - text: Calendly
-      href: https://calendly.com/robmarkcole/
     - text: CV
       url: "cv.pdf"
 ---
