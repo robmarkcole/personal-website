@@ -5,7 +5,7 @@
 
 ## 1:1 video calls
 
-I am available for 1 hour long 1:1 video calls on the following topics:
+I am available for paid 1:1 video calls on the following topics:
 
 - Machine & deep learning applied to satellite & aerial imagery: dataset selection, model training and deployment
 - The physics of remote sensing imaging systems
@@ -13,7 +13,7 @@ I am available for 1 hour long 1:1 video calls on the following topics:
 - Brand and community building for technical products
 - Personal career development
 
-Please [email me](mailto:robin@deep-field-insights.com) with any questions or proceed directly to [book a 1:1](https://calendly.com/robmarkcole/)
+Please [email me](mailto:robin@deep-field-insights.com) with any questions or to arrange a time for a call
 
 ## Testimonials
 - Gregor Beyerle, HAKOM Time Series GmbH: *Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products.*
