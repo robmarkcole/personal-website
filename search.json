@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Robin Cole",
-    "section": "",
-    "text": "I hold a PhD in physics from the University of Cambridge and have worked in a number of research and development roles within industry. I have a decade of experience with the Python programming language and have expertise in cloud computing on AWS infrastructure. I am a passionate advocate for the open source software movement and make regular contributions on Github. I have presented at Python conferences and appeared on podcasts including the ZenML and Mapscaping podcasts. I am the maintainer of the satellite-image-deep-learning Github repository and newsletter"
-  },
-  {
     "objectID": "consulting.html#video-calls",
     "href": "consulting.html#video-calls",
     "title": "Robin Cole",
     "section": "1:1 video calls",
-    "text": "1:1 video calls\nI am available for 1 hour long 1:1 video calls on the following topics:\n\nMachine & deep learning applied to satellite & aerial imagery: dataset selection, model training and deployment\nThe physics of remote sensing imaging systems\nBuilding data processing pipelines in the cloud\nBrand and community building for technical products\nPersonal career development\n\nPlease email me with any questions or proceed directly to book a 1:1"
+    "text": "1:1 video calls\nI am available for paid 1:1 video calls on the following topics:\n\nMachine & deep learning applied to satellite & aerial imagery: dataset selection, model training and deployment\nThe physics of remote sensing imaging systems\nBuilding data processing pipelines in the cloud\nBrand and community building for technical products\nPersonal career development\n\nPlease email me with any questions or to arrange a time for a call"
   },
   {
     "objectID": "consulting.html#testimonials",
@@ -19,5 +12,12 @@
     "title": "Robin Cole",
     "section": "Testimonials",
     "text": "Testimonials\n\nGregor Beyerle, HAKOM Time Series GmbH: Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products.\nSebastian Gutierrez, Data Science Weekly: We reached out to Dr. Cole with a set of questions we thought he could answer and provide guidance upon. He over-delivered on the value he provided not only during our live chats but also with material for us to read through (before and after our chat). He compared different approaches without ‘putting his thumb on the scale’ and ultimately I think we were able to chose the right solution for us all due to his advice. 10/10, would highly recommend.\nPushkar Kopparla, University of Bern: I reached out to Robin for advice on deep learning self-study. We had an excellent discussion, and I got clear and insightful pointers on how I could leverage my existing expertise to step into deep learning projects. Highly recommended!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robin Cole",
+    "section": "",
+    "text": "I hold a PhD in physics from the University of Cambridge and have worked in a number of research and development roles within industry. I have a decade of experience with the Python programming language and have expertise in cloud computing on AWS infrastructure. I am a passionate advocate for the open source software movement and make regular contributions on Github. I have presented at Python conferences and appeared on podcasts including the ZenML and Mapscaping podcasts. I am the maintainer of the satellite-image-deep-learning Github repository and newsletter"
   }
 ]
