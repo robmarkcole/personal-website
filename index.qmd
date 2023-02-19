@@ -13,10 +13,11 @@ about:
     - text: Github
       icon: github
       href: https://github.com/robmarkcole
-    - text: CV
-      url: "cv.pdf"
+    - text: Medium
+      icon: medium
+      href: https://medium.com/@robmarkcole
     - text: Email
       url: "mailto:robin@deep-field-insights.com"
 ---
 
-I hold a PhD in physics from the University of Cambridge and have worked in a number of research and development roles within industry. I have a decade of experience with the Python programming language and have expertise in cloud computing on AWS infrastructure. I am a passionate advocate for the open source software movement and make regular contributions on [Github](https://github.com/robmarkcole). I have presented at Python conferences and appeared on podcasts including the [ZenML](https://podcast.zenml.io/satellite-vision-robin-cole) and [Mapscaping](https://mapscaping.com/podcasts/thermal-imagery-from-space/) podcasts. I am the maintainer of the satellite-image-deep-learning [Github repository](https://github.com/robmarkcole/satellite-image-deep-learning) and [newsletter](https://www.satellite-image-deep-learning.com/)
+I hold a PhD in physics from the University of Cambridge, and have significant R&D experience across academia and industry. Over the last ten years, I have been working in the space sector, applying my optical expertise in the design and manufacture of space-based telescopes, as well as specializing in Python-based image analysis and software development. I am a well-known authority in machine and deep learning techniques for processing satellite and aerial imagery, and am dedicated to education. I have created the [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/) website, newsletter, YouTube channel, and Github organization to share my knowledge and build a community. As a strong proponent of the open-source software movement, I regularly contribute to Github and strive to make a positive impact in the developer community. I have had the opportunity to share my expertise by presenting at various Python conferences and have been invited as a guest on several podcasts, including the [ZenML](https://podcast.zenml.io/satellite-vision-robin-cole) and [Mapscaping](https://mapscaping.com/podcasts/thermal-imagery-from-space/) podcasts. Through these opportunities, I am able to share my knowledge and passion for the industry, while also connecting with other like-minded individuals.

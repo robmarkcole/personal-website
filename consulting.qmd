@@ -3,9 +3,9 @@
 
 ![](robin.png){fig-align="centre"}
 
-## 1:1 video calls
+## Consulting
 
-I am available for paid 1:1 video calls on the following topics:
+I am available for consulting on the following topics:
 
 - Machine & deep learning applied to satellite & aerial imagery: dataset selection, model training and deployment
 - The physics of remote sensing imaging systems
