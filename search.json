@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "consulting.html#video-calls",
-    "href": "consulting.html#video-calls",
+    "objectID": "consulting.html#consulting",
+    "href": "consulting.html#consulting",
     "title": "Robin Cole",
-    "section": "1:1 video calls",
-    "text": "1:1 video calls\nI am available for paid 1:1 video calls on the following topics:\n\nMachine & deep learning applied to satellite & aerial imagery: dataset selection, model training and deployment\nThe physics of remote sensing imaging systems\nBuilding data processing pipelines in the cloud\nBrand and community building for technical products\nPersonal career development\n\nPlease email me with any questions or to arrange a time for a call"
+    "section": "Consulting",
+    "text": "Consulting\nI am available for consulting on the following topics:\n\nMachine & deep learning applied to satellite & aerial imagery: dataset selection, model training and deployment\nThe physics of remote sensing imaging systems\nBuilding data processing pipelines in the cloud\nBrand and community building for technical products\nPersonal career development\n\nPlease email me with any questions or to arrange a time for a call"
   },
   {
     "objectID": "consulting.html#testimonials",
@@ -18,6 +18,6 @@
     "href": "index.html",
     "title": "Robin Cole",
     "section": "",
-    "text": "I hold a PhD in physics from the University of Cambridge and have worked in a number of research and development roles within industry. I have a decade of experience with the Python programming language and have expertise in cloud computing on AWS infrastructure. I am a passionate advocate for the open source software movement and make regular contributions on Github. I have presented at Python conferences and appeared on podcasts including the ZenML and Mapscaping podcasts. I am the maintainer of the satellite-image-deep-learning Github repository and newsletter"
+    "text": "I hold a PhD in physics from the University of Cambridge, and have significant R&D experience across academia and industry. Over the last ten years, I have been working in the space sector, applying my optical expertise in the design and manufacture of space-based telescopes, as well as specializing in Python-based image analysis and software development. I am a well-known authority in machine and deep learning techniques for processing satellite and aerial imagery, and am dedicated to education. I have created the satellite-image-deep-learning.com website, newsletter, YouTube channel, and Github organization to share my knowledge and build a community. As a strong proponent of the open-source software movement, I regularly contribute to Github and strive to make a positive impact in the developer community. I have had the opportunity to share my expertise by presenting at various Python conferences and have been invited as a guest on several podcasts, including the ZenML and Mapscaping podcasts. Through these opportunities, I am able to share my knowledge and passion for the industry, while also connecting with other like-minded individuals."
   }
 ]
