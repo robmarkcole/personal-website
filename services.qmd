@@ -1,0 +1,35 @@
+---
+---
+
+![](robin.png){fig-align="centre"}
+
+## Consulting
+
+If you need expert guidance on any of the following topics, I'm available for hourly video call consulting:
+
+- Applying machine learning and deep learning techniques to satellite and aerial imagery, including dataset selection, model training, and deployment.
+- Understanding the physics of remote sensing imaging systems.
+- Building data processing pipelines in the cloud.
+- Building your brand and community for technical products.
+- Personal career development.
+
+As an experienced consultant, I offer customized advice and practical solutions to help you achieve your goals in these areas.
+
+## Social media coverage
+If you're looking to increase your brand's visibility on social media, I can help by providing coverage on both Twitter and LinkedIn. With over 10,000 followers in the remote sensing community, my audience is perfectly positioned to amplify your message and help you reach new potential customers or clients.
+
+- [LinkedIn profile](https://www.linkedin.com/in/robmarkcole/)
+- [Twitter profile](https://twitter.com/robmarkcole)
+
+## Contact me
+
+If you're interested in discussing these services further, please don't hesitate to contact me at [robin@deep-field-insights.com](mailto:robin@deep-field-insights.com). I'm always available to answer your questions and help you find the best solution for your needs.
+
+## Testimonials
+- Gregor Beyerle, HAKOM Time Series GmbH: *Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products.*
+
+- Constantine Papadakis, Oak Wilt Mapper: *It was an exceptional experience collaborating with Robin on my project at Oak Wilt Mapper. His profound expertise in machine learning, Python development, and space imaging technologies proved invaluable in fleshing out a technical solution that not only met but exceeded my expectations. Robin's ability to answer my questions and provide clear and concise explanations of complex concepts was incredibly helpful. Working with Robin was not only productive but also enjoyable, and I would highly recommend him to anyone seeking a top-notch consultant. I look forward to the opportunity to work with him again in the future.*
+
+- Sebastian Gutierrez, Data Science Weekly: *We reached out to Dr. Cole with a set of questions we thought he could answer and provide guidance upon. He over-delivered on the value he provided not only during our live chats but also with material for us to read through (before and after our chat). He compared different approaches without 'putting his thumb on the scale' and ultimately I think we were able to chose the right solution for us all due to his advice. 10/10, would highly recommend.*
+
+- Pushkar Kopparla, University of Bern: *I reached out to Robin for advice on deep learning self-study. We had an excellent discussion, and I got clear and insightful pointers on how I could leverage my existing expertise to step into deep learning projects. Highly recommended!*
