@@ -1,37 +1,37 @@
 [
   {
-    "objectID": "services.html#consulting",
-    "href": "services.html#consulting",
-    "title": "Robin Cole",
-    "section": "Consulting",
-    "text": "Consulting\nIf you need expert guidance on any of the following topics, I’m available for hourly video call consulting:\n\nApplying machine learning and deep learning techniques to satellite and aerial imagery, including dataset selection, model training, and deployment.\nUnderstanding the physics of remote sensing imaging systems.\nBuilding data processing pipelines in the cloud.\nBuilding your brand and community for technical products.\nPersonal career development.\n\nAs an experienced consultant, I offer customized advice and practical solutions to help you achieve your goals in these areas."
-  },
-  {
-    "objectID": "services.html#social-media-coverage",
-    "href": "services.html#social-media-coverage",
-    "title": "Robin Cole",
-    "section": "Social media coverage",
-    "text": "Social media coverage\nIf you’re looking to increase your brand’s visibility on social media, I can help by providing coverage on both Twitter and LinkedIn. With over 10,000 followers in the remote sensing community, my audience is perfectly positioned to amplify your message and help you reach new potential customers or clients.\n\nLinkedIn profile\nTwitter profile"
-  },
-  {
-    "objectID": "services.html#contact-me",
-    "href": "services.html#contact-me",
-    "title": "Robin Cole",
-    "section": "Contact me",
-    "text": "Contact me\nIf you’re interested in discussing these services further, please don’t hesitate to contact me at robin@deep-field-insights.com. I’m always available to answer your questions and help you find the best solution for your needs."
-  },
-  {
-    "objectID": "services.html#testimonials",
-    "href": "services.html#testimonials",
-    "title": "Robin Cole",
-    "section": "Testimonials",
-    "text": "Testimonials\n\nGregor Beyerle, HAKOM Time Series GmbH: Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products.\nConstantine Papadakis, Oak Wilt Mapper: It was an exceptional experience collaborating with Robin on my project at Oak Wilt Mapper. His profound expertise in machine learning, Python development, and space imaging technologies proved invaluable in fleshing out a technical solution that not only met but exceeded my expectations. Robin’s ability to answer my questions and provide clear and concise explanations of complex concepts was incredibly helpful. Working with Robin was not only productive but also enjoyable, and I would highly recommend him to anyone seeking a top-notch consultant. I look forward to the opportunity to work with him again in the future.\nSebastian Gutierrez, Data Science Weekly: We reached out to Dr. Cole with a set of questions we thought he could answer and provide guidance upon. He over-delivered on the value he provided not only during our live chats but also with material for us to read through (before and after our chat). He compared different approaches without ‘putting his thumb on the scale’ and ultimately I think we were able to chose the right solution for us all due to his advice. 10/10, would highly recommend.\nPushkar Kopparla, University of Bern: I reached out to Robin for advice on deep learning self-study. We had an excellent discussion, and I got clear and insightful pointers on how I could leverage my existing expertise to step into deep learning projects. Highly recommended!"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Robin Cole",
     "section": "",
     "text": "I hold a PhD in physics from the University of Cambridge, and have significant R&D experience across academia and industry. Over the last ten years, I have been working in the space sector, applying my optical expertise in the design and manufacture of space-based telescopes, as well as specializing in Python-based image analysis and software development. I am a well-known authority in machine and deep learning techniques for processing satellite and aerial imagery, and am dedicated to education. I have created the satellite-image-deep-learning.com website, newsletter, YouTube channel, and Github organization to share my knowledge and build a community. As a strong proponent of the open-source software movement, I regularly contribute to Github and strive to make a positive impact in the developer community. I have had the opportunity to share my expertise by presenting at various Python conferences and have been invited as a guest on several podcasts, including the ZenML and Mapscaping podcasts. Through these opportunities, I am able to share my knowledge and passion for the industry, while also connecting with other like-minded individuals."
+  },
+  {
+    "objectID": "unused/services.html#consulting",
+    "href": "unused/services.html#consulting",
+    "title": "Robin Cole",
+    "section": "Consulting",
+    "text": "Consulting\nIf you need expert guidance on any of the following topics, I’m available for hourly video call consulting:\n\nApplying machine learning and deep learning techniques to satellite and aerial imagery, including dataset selection, model training, and deployment.\nUnderstanding the physics of remote sensing imaging systems.\nBuilding data processing pipelines in the cloud.\nBuilding your brand and community for technical products.\nPersonal career development.\n\nAs an experienced consultant, I offer customized advice and practical solutions to help you achieve your goals in these areas."
+  },
+  {
+    "objectID": "unused/services.html#social-media-coverage",
+    "href": "unused/services.html#social-media-coverage",
+    "title": "Robin Cole",
+    "section": "Social media coverage",
+    "text": "Social media coverage\nIf you’re looking to increase your brand’s visibility on social media, I can help by providing coverage on both Twitter and LinkedIn. With over 10,000 followers in the remote sensing community, my audience is perfectly positioned to amplify your message and help you reach new potential customers or clients.\n\nLinkedIn profile\nTwitter profile"
+  },
+  {
+    "objectID": "unused/services.html#contact-me",
+    "href": "unused/services.html#contact-me",
+    "title": "Robin Cole",
+    "section": "Contact me",
+    "text": "Contact me\nIf you’re interested in discussing these services further, please don’t hesitate to contact me at robin@deep-field-insights.com. I’m always available to answer your questions and help you find the best solution for your needs."
+  },
+  {
+    "objectID": "unused/services.html#testimonials",
+    "href": "unused/services.html#testimonials",
+    "title": "Robin Cole",
+    "section": "Testimonials",
+    "text": "Testimonials\n\nGregor Beyerle, HAKOM Time Series GmbH: Working with Dr Cole was exactly what we needed: uncomplicated and insightful. It is wonderful to see that the EO space is finally big enough for independent consultants that don’t have to sell you on their companies’ products.\nConstantine Papadakis, Oak Wilt Mapper: It was an exceptional experience collaborating with Robin on my project at Oak Wilt Mapper. His profound expertise in machine learning, Python development, and space imaging technologies proved invaluable in fleshing out a technical solution that not only met but exceeded my expectations. Robin’s ability to answer my questions and provide clear and concise explanations of complex concepts was incredibly helpful. Working with Robin was not only productive but also enjoyable, and I would highly recommend him to anyone seeking a top-notch consultant. I look forward to the opportunity to work with him again in the future.\nSebastian Gutierrez, Data Science Weekly: We reached out to Dr. Cole with a set of questions we thought he could answer and provide guidance upon. He over-delivered on the value he provided not only during our live chats but also with material for us to read through (before and after our chat). He compared different approaches without ‘putting his thumb on the scale’ and ultimately I think we were able to chose the right solution for us all due to his advice. 10/10, would highly recommend.\nPushkar Kopparla, University of Bern: I reached out to Robin for advice on deep learning self-study. We had an excellent discussion, and I got clear and insightful pointers on how I could leverage my existing expertise to step into deep learning projects. Highly recommended!"
   }
 ]
