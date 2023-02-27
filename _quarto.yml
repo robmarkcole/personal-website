@@ -4,10 +4,10 @@ project:
 website:
   title: "Robin Cole"
   site-url: https://robmarkcole.com
-  navbar:
-    right:
-      - text: "Services"
-        href: services.html
+  # navbar:
+  #   right:
+  #     - text: "Services"
+  #       href: services.html
 format:
   html:
     theme: cosmo
